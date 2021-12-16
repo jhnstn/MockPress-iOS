@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AutomatticAbout",
+        "repositoryURL": "https://github.com/automattic/AutomatticAbout-swift",
+        "state": {
+          "branch": null,
+          "revision": "36700103dc6070bfead85c6b25ad688d8f8c37ee",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "ScreenObject",
+        "repositoryURL": "https://github.com/Automattic/ScreenObject",
+        "state": {
+          "branch": null,
+          "revision": "2d65beae47cdcaaf21703ce1b321f382fe0d0730",
+          "version": "0.2.0"
+        }
+      },
+      {
+        "package": "XCUITestHelpers",
+        "repositoryURL": "https://github.com/Automattic/XCUITestHelpers",
+        "state": {
+          "branch": null,
+          "revision": "3212ac32f0a58ea10604b5cf31fe5450f908ff65",
+          "version": "0.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
